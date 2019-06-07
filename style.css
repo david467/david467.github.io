@@ -1,5 +1,18 @@
-  color:red;
-            background:yellow;}
-            h3{
+
+    h3{
                 background:yellow
-            color:brown }<body> silver
+            color:brown 
+} 
+
+.box{
+    background: pink;
+    margin:50px 20px 30px 200px;
+    padding:40px 50px 100px 70px;
+}
+
+#david{
+    border: 10px solid red;
+    width: 100px;
+    height: 100px;
+    border-radius:300px;
+}
